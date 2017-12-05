@@ -1,0 +1,1 @@
+1. Datoteke so prazne, so v branchu "master", dobile so HEAD s commentarjem, ter kdaj so bile nazadnje mmodified
