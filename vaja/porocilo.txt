@@ -1,1 +1,2 @@
 1. Datoteke so prazne, so v branchu "master", dobile so HEAD s commentarjem, ter kdaj so bile nazadnje mmodified
+2. Datoteke vsebujejo vnešene "podatke", HEAD se jim je spremenil, ter dodan novi komentar, ter kdaj so bile nazadnje modified
